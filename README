@@ -1,0 +1,25 @@
+Indeed, in this clinic management system, users will be prompted to choose between two modes: Admin Mode and User Mode. These modes offer different functionalities and access levels within the system. The user can select the desired mode based on their role and requirements.
+
+A: Admin Mode:
+In admin mode, you have the following capabilities:
+
+1. Add New Patient Record:
+You can add a new patient record by entering their name, age, gender, and ID. This information will be stored in the system for future reference.
+
+2. Edit Patient Record:
+You can edit an existing patient record by entering the patient's ID. This allows you to update any changes in the patient's information such as their name, age, or gender.
+
+3. Reserve a Slot with the Doctor:
+You can reserve a time slot for a patient to see the doctor. By default, there are five available slots: 2pm to 2:30pm, 2:30pm to 3pm, 3pm to 3:30pm, 4pm to 4:30pm, and 4:30pm to 5pm. You can assign a patient to any of these slots.
+
+4. Cancel Reservation:
+As an admin, you have the authority to cancel a reservation. You can do this by entering the patient's ID, and the system will remove the reservation for that patient.
+
+B: User Mode:
+In user mode, you have the following capabilities:
+
+1. View Patient Record:
+By entering the patient's ID, you can view the basic information associated with that patient. This includes their name, age, gender, and any other relevant details.
+
+2. View Today's Reservations:
+In this view, the system will display all the reservations made for the current day. Each reservation will be linked to the corresponding patient ID, allowing you to see which patient has reserved each time slot.
